@@ -1,0 +1,17 @@
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe.config
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.pdb
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csprojResolveAssemblyReference.cache
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.Form1.resources
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.Properties.Resources.resources
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.GenerateResource.Cache
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe
+c:\users\vilson\documents\visual studio 2015\Projects\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.pdb
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe.config
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.pdb
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.Form1.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.Properties.Resources.resources
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.GenerateResource.Cache
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe
+C:\Users\Lucas\Desktop\TesteHBSIS\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.pdb
